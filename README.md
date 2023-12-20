@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![image](https://github.com/NAVEEN-2006/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/152067648/9472dbc3-c9a1-453b-b31c-4494e8aa78b5)
+![Screenshot 2023-12-20 101842](https://github.com/NAVEEN-2006/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/152067648/5a3ca1e0-7af5-4d68-9921-1df62d579b1a)
 
  
  ## RESULT
